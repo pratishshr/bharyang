@@ -1,0 +1,30 @@
+{
+  "name": "ts-setup",
+  "version": "1.0.0",
+  "description": "Setup files for creating Typescript libraries.",
+  "main": "build/lib.js",
+  "types": "",
+  "module": "src/index.ts",
+  "author": "Pratish Shrestha <pratishshr@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack",
+    "test": "mocha --recursive test/**/*.spec.ts",
+    "test:watch": "mocha --watch-extensions ts --watch --recursive test/**/*.spec.ts"
+  },
+  "keywords": ["setup", "ts-setup"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pratishshr/ts-setup"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.0.10",
+    "@types/mocha": "^2.2.44",
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "ts-loader": "^3.2.0",
+    "ts-node": "3.3.0",
+    "typescript": "^2.6.2",
+    "webpack": "^3.8.1"
+  }
+}
