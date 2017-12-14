@@ -3,3 +3,5 @@ interface RegEx {
   libraries: RegExp;
   [key: string]: RegExp;
 }
+
+export default RegEx;

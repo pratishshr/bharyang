@@ -6,3 +6,5 @@ interface Import {
   };
   [key: string]: any;
 }
+
+export default Import;

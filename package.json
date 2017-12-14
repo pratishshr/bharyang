@@ -9,13 +9,10 @@
   "license": "MIT",
   "scripts": {
     "build": "webpack",
-    "test": "mocha --recursive test/**/*.spec.ts",
-    "test:watch": "mocha --watch-extensions ts --watch --recursive test/**/*.spec.ts"
+    "test": "mocha --recursive test/*.spec.ts",
+    "test:watch": "mocha --watch-extensions ts --watch --recursive test/*.spec.ts"
   },
-  "keywords": [
-    "setup",
-    "ts-setup"
-  ],
+  "keywords": ["setup", "ts-setup"],
   "repository": {
     "type": "git",
     "url": "https://github.com/pratishshr/ts-setup"

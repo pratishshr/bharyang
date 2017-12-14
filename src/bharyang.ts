@@ -1,5 +1,8 @@
 import { sort as sortArray, sortKeys, sortOrder } from 'sort-o';
 
+import RegEx from './typedefs/RegEx';
+import Import from './typedefs/Import';
+
 import { isObject } from './util/object';
 
 const regEx: RegEx = {
@@ -120,5 +123,5 @@ export function sortImports(text: string) {
 
   sortedLines = sortLines(lineGroup);
 
-  return sortedLines.join('\n').replace(/\n\n/g, '\n');
+  return sortedLines.join('\n').replace(/\n\n+/g, '\n\n');
 }
