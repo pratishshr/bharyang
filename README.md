@@ -1,4 +1,4 @@
-# <a href='http://redux.js.org'><img src='https://raw.githubusercontent.com/pratishshr/bharyang/master/logo.png' height='60'></a>
+# <a href='http://github.com/pratishshr/bharyang'><img src='https://raw.githubusercontent.com/pratishshr/bharyang/master/bharyang.png' height='60'></a>
 
 [![npm](https://img.shields.io/npm/v/bharyang.svg)](https://www.npmjs.com/package/bharyang)
 [![Build Status](https://travis-ci.org/pratishshr/bharyang.svg?branch=master)](https://travis-ci.org/pratishshr/bharyang)
