@@ -10,8 +10,8 @@ module.exports = {
   },
   output: {
     path: path.resolve(__dirname, 'build'),
-    filename: 'lib.js',
-    library: 'lib',
+    filename: 'bharyang.js',
+    library: 'bharyang',
     libraryTarget: 'umd'
   }
 };

@@ -1,9 +1,9 @@
 {
-  "name": "ts-setup",
+  "name": "bharyang",
   "version": "1.0.0",
-  "description": "Setup files for creating Typescript libraries.",
-  "main": "build/lib.js",
-  "types": "",
+  "description": "Core library for bharyang extensions.",
+  "main": "build/bharyang.js",
+  "types": "bharyang.d.ts",
   "module": "src/index.ts",
   "author": "Pratish Shrestha <pratishshr@gmail.com>",
   "license": "MIT",
@@ -12,10 +12,10 @@
     "test": "mocha --recursive test/*.spec.ts",
     "test:watch": "mocha --watch-extensions ts --watch --recursive test/*.spec.ts"
   },
-  "keywords": ["setup", "ts-setup"],
+  "keywords": ["bharyang"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/pratishshr/ts-setup"
+    "url": "https://github.com/pratishshr/bharyang"
   },
   "devDependencies": {
     "@types/chai": "^4.0.10",
