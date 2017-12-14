@@ -1,9 +1,5 @@
-<a href='http://github.com/pratishshr/bharyang'><img src='https://raw.githubusercontent.com/pratishshr/bharyang/master/logo.png' height='60'></a>
-
-# Bharyang
-[![npm](https://img.shields.io/npm/v/bharyang.svg)](https://www.npmjs.com/package/bharyang)
-[![Build Status](https://travis-ci.org/pratishshr/bharyang.svg?branch=master)](https://travis-ci.org/pratishshr/bharyang)
-[![npm](https://img.shields.io/npm/dt/bharyang.svg)](https://www.npmjs.com/package/bharyang)
+<a href='http://github.com/pratishshr/bharyang'><img src='https://raw.githubusercontent.com/pratishshr/bharyang/master/assets/logo.png' height='80'></a>
+# Bharyang [![npm](https://img.shields.io/npm/v/bharyang.svg)](https://www.npmjs.com/package/bharyang) [![Build Status](https://travis-ci.org/pratishshr/bharyang.svg?branch=master)](https://travis-ci.org/pratishshr/bharyang) [![npm](https://img.shields.io/npm/dt/bharyang.svg)](https://www.npmjs.com/package/bharyang)
 
 > Core library for bharyang extensions.
 
