@@ -1,3 +1,3 @@
-# ts-setup
+# Bharyang
 
-> Simple setup for creating Typescript libraries.
+> Core library for bharyang extensions.
