@@ -12,7 +12,10 @@
     "test": "mocha --recursive test/**/*.spec.ts",
     "test:watch": "mocha --watch-extensions ts --watch --recursive test/**/*.spec.ts"
   },
-  "keywords": ["setup", "ts-setup"],
+  "keywords": [
+    "setup",
+    "ts-setup"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/pratishshr/ts-setup"
@@ -26,5 +29,8 @@
     "ts-node": "3.3.0",
     "typescript": "^2.6.2",
     "webpack": "^3.8.1"
+  },
+  "dependencies": {
+    "sort-o": "^1.7.1"
   }
 }

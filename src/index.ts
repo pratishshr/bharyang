@@ -1,8 +1,3 @@
-/**
- * Sample function that return "Hello World"
- *
- * @returns {string}
- */
-export function hello() {
-  return 'Hello World';
-}
+import { sortAscending, sortDescending, sortImports } from './bharyang';
+
+export { sortImports, sortAscending, sortDescending };
