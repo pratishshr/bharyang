@@ -1,6 +1,6 @@
 {
   "name": "bharyang",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Core library for bharyang extensions.",
   "main": "build/bharyang.js",
   "types": "bharyang.d.ts",
