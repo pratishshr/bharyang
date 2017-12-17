@@ -33,6 +33,16 @@ Yup, so creative! **Thank you**. 👏
 Currently, it is implemented for Visual Studio Code only. **Check here for the actual use**.
  - [bharyang-vscode](https://github.com/pratishshr/bharyang-vscode)
 
+## Installation
+
+```bash
+npm install --save bharyang
+```
+
+```bash
+yarn add bharyang
+```
+
 ## Usage
 
 ```js
