@@ -4,7 +4,7 @@
 
 This is the core library that provides functions to rearrange the block of lines.
 
-It was mainly written due the OCD nature of mine and my colleagues.
+It was mainly written due to the OCD nature of mine and my colleagues.
 
 ```js
 // Before:                                      |  // After:
@@ -18,9 +18,9 @@ import { bindActionCreators } from 'redux';     |  import { bindActionCreators }
 import camelize from 'camelize';                |  import { browserHistory } from 'react-router';
 ```
 
-Whenever we see imports like this, we can't help but give it a little cringe. It's not wrong in any way, but its just... **not pretty**. How about arranging them in a way so that you would want to give a second look at your code?
+Whenever we see imports like this, we can't help but give it a little cringe. It's not wrong in any way, but it's just... **not pretty**. How about arranging them in a way so that you would want to give a second look at your code?
 
-Waste of time? **Totally**. We actually spend ridiculous amount of time just to make the code **"look pretty"**. But hey, once it's done, that satisfaction is totally worth it.
+Waste of time? **Totally**. We actually spend a ridiculous amount of time just to make the code **"look pretty"**. But hey, once it's done, that satisfaction is totally worth it.
 
 Actually, we are just so used to this ladder styled code that we can't go back 😅.
 
@@ -30,7 +30,7 @@ Yup, so creative! **Thank you**. 👏
 
 ## Implementations
 
-Currently it is implemented for Visual Studio Code only. **Check here for the actual use**.
+Currently, it is implemented for Visual Studio Code only. **Check here for the actual use**.
  - [bharyang-vscode](https://github.com/pratishshr/bharyang-vscode)
 
 ## Usage
