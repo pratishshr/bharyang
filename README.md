@@ -30,7 +30,7 @@ Yup, so creative! **Thank you**. 👏
 
 ## Implementations
 
-**Check here for the actual use**.
+**Check here for the actual implementation**.
  - [bharyang-vscode](https://github.com/pratishshr/bharyang-vscode)
  - [bharyang-cli](https://github.com/squgeim/bharyang-cli) - by [squgiem](https://github.com/squgeim)
  - [bharyang-vim](https://github.com/squgeim/bharyang-vim) - by [squgiem](https://github.com/squgeim)
